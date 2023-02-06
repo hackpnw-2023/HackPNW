@@ -3,7 +3,7 @@
 ## Overview 
 Plateful is the ultimate kitchen assistant that helps you make the most of the food you already have at home. Say goodbye to food waste and hello to delicious, home-cooked meals.
 
-## What is Plateful
+## What is Plateful?
 Plateful makes meal planning and recipe creation effortless. Simply select the food items in your kitchen, and the website will search through a database of thousands of recipes to find the perfect match. From hearty soups and stews to delectable desserts, Plateful has something for every palate.
 
 ## How Does Plateful Work? 
